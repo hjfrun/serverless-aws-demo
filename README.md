@@ -10,6 +10,8 @@ authorName: 'Serverless, inc.'
 authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 -->
 
+[Serverless Framework with AWS Lambda Crash Course](https://www.youtube.com/watch?v=woqLi6NEW58)
+
 # Serverless Framework Node REST API on AWS
 
 This template demonstrates how to make a simple REST API with Node.js running on AWS Lambda and API Gateway using the traditional Serverless Framework.
